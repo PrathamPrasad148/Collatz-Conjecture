@@ -1,0 +1,1 @@
+# Scenes package for Collatz Conjecture Manim project

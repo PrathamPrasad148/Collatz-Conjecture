@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+media/
+temp_renders/
+output/
+*.pyc
+*.mp4
